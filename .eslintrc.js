@@ -26,5 +26,8 @@ module.exports = {
             "always"
         ],
         // "no-console": "warn"
+    },
+    globals: {
+        use: true
     }
 };
